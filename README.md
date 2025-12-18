@@ -1,5 +1,5 @@
 # 2b || !2b... hi there ;}
- I’m "Ali Sabetizadeh" a `frontend <div/>eloper` that always thinks <br/>
+ I’m "**Ali Sabetizadeh**" a `frontend <div/>eloper` that always thinks <br/>
  how UIs  🖥 <br/>
  should work better!
  
