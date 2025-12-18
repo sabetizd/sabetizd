@@ -1,5 +1,5 @@
 <div align="center" height:"200">
-  <img src=https://i.postimg.cc/d1zxp7YR/Social-Media-Collaterals-Set.png" >
+  <img width="600" src=https://i.postimg.cc/ryWK0vKh/Social-Media-Collaterals-Set.png" >
 </div>
 
 ## Hi there ;}
