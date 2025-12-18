@@ -1,5 +1,5 @@
 # Hi there... ;}
- I’m "Ali Sabetizadeh" a `frontend <div/>eloper` always thinks how UIs should work better.
+ I’m "Ali Sabetizadeh" a `frontend <div/>eloper` that always thinks how UIs should work better.
  
 <div align="center" height:"200">
   <img width="600" src=https://i.postimg.cc/d3kHwGvq/Social-Media-Collaterals-Set.png" >
