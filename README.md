@@ -8,6 +8,7 @@
 </div>
 
 <h2 align="center">⚙️Techs</h2>
+
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
@@ -19,3 +20,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50"/>                            
 </p>
 
+<h2 align="center">Contact</h2>
+
+
+<div align="center">
+<a href="https://www.linkedin.com/in/sabetizd/">  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="50"/>          
+</a>
+ <a href="https://t.me/alisabetz">  
+   <img src="https://cdn.simpleicons.org/telegram" color="#26A5E4" width="50"/>       
+</a>
+<div/>          
