@@ -1,11 +1,12 @@
-## Hi there 👋
-I’m "Ali Sabetizadeh" a frontend developer always thinks for a interavtive UI.
-
 <div align="center" height:"200">
   <img  src=https://i.postimg.cc/YS218XK6/Social-Media-Collaterals-Set.png" >
 </div>
 
-## 🛠 Skills
+## Hi there ;}
+I’m "Ali Sabetizadeh" a `frontend <div/>eloper` always thinks how UIs should work better.
+
+<br>
+<h2 align="center">Techs</h2>
 
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
